@@ -1,4 +1,21 @@
 [package]
 name = "arcmutex"
+description = "asdf"
 version = "0.1.0"
 authors = ["kurotetsuka <kurotetsuka@gmail.com>"]
+
+# links
+#documentation = "asdf"
+homepage = "https://github.com/kurotetsuka/arcmutex"
+repository = "https://github.com/kurotetsuka/arcmutex"
+
+# files
+readme = "readme.md"
+license = "MIT"
+license-file = "legal/mit.md"
+
+# This is a small list of keywords used to categorize and search for this
+# package.
+keywords = [ "arc", "mutex", "arcmutex", "macro"]
+
+
