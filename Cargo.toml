@@ -1,6 +1,6 @@
 [package]
 name = "arcmutex"
-description = "asdf"
+description = "A convenience library for working with `Arc<Mutex<T>>`s"
 version = "0.1.0"
 authors = ["kurotetsuka <kurotetsuka@gmail.com>"]
 
