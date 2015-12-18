@@ -1,7 +1,7 @@
 [package]
 name = "arcmutex"
 description = "A convenience library for working with `Arc<Mutex<T>>`s"
-version = "0.1.1"
+version = "0.2.0"
 authors = ["kurotetsuka <kurotetsuka@gmail.com>"]
 
 # links
@@ -12,7 +12,7 @@ repository = "https://github.com/kurotetsuka/arcmutex"
 # files
 readme = "readme.md"
 license = "MIT"
-license-file = "legal/mit.md"
+#license-file = "legal/mit.md"
 
 # This is a small list of keywords used to categorize and search for this
 # package.
